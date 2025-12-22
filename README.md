@@ -1,35 +1,39 @@
 <div align="center">
-
-# Your Project Name Here
-
-**Badass tagline goes here**  
-*One-liner that explains what this project does*
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo-name?style=social)](https://github.com/yourusername/your-repo-name/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo-name?style=social)](https://github.com/yourusername/your-repo-name/network/members)
-[![License](https://img.shields.io/github/license/yourusername/your-repo-name)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/yourusername/your-repo-name)](https://github.com/yourusername/your-repo-name/issues)
-
+  <h1 style="
+    margin: 0;
+    padding: 40px 20px;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: gradient 15s ease infinite, typing 4s steps(30) forwards, blink 1s infinite;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 4px solid #ffffff;
+    width: 0;
+  ">
+    Your Project Name
+  </h1>
 </div>
 
----
-
-### 🚀 About
-
-Write a short description here bro. What’s this project for? Why’d you make it?
-
-### ✨ Features
-
-- almost always at spawn
-
-
-### 🖼 Preview / Demo
-
-![demo screenshot or gif](https://27.media.tumblr.com/tumblr_llp16dZ5g21qk1kc2o1_500.gif)  
-
-### ⚙️ Quick Start
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-# add your setup commands here later
+<style>
+  @keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+  
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  
+  @keyframes blink {
+    0%, 100% { border-color: transparent }
+    50% { border-color: #ffffff }
+  }
+</style>
