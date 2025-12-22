@@ -20,12 +20,8 @@ Write a short description here bro. What’s this project for? Why’d you make 
 
 ### ✨ Features
 
-- 🔥 Feature one that slaps
-- ⚡ Something super fast or cool
-- 🛠 Easy to whatever
-- 🎨 Looks clean af
+- almost always at spawn
 
-Add or remove bullets as you go.
 
 ### 🖼 Preview / Demo
 
