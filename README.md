@@ -8,20 +8,12 @@
 
   <br><br>
 
-  ### Demo Gallery
-
-  <table>
-    <tr>
-      <td align="center"><img src="https://your-gif-link1.gif" width="300"/><br><b>Feature 1 in action</b></td>
-      <td align="center"><img src="https://your-gif-link2.gif" width="300"/><br><b>Smooth animation</b></td>
-      <td align="center"><img src="https://your-gif-link3.gif" width="300"/><br><b>Dark mode toggle</b></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://your-screenshot1.png" width="300"/><br><b>Clean UI</b></td>
-      <td align="center"><img src="https://your-screenshot2.png" width="300"/><br><b>Responsive layout</b></td>
-      <td align="center"><img src="https://your-screenshot3.png" width="300"/><br><b>Final result</b></td>
-    </tr>
-  </table>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="" width="400" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+    <img src="" width="400" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+    <img src="" width="400" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+    <img src="" width="400" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+  </div>
 
 </div>
 
