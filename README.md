@@ -11,4 +11,3 @@
 </div>
 
 ![Marukaite Chikyuu fin](https://github.com/user-attachments/assets/0ba5d40a-f554-4b86-bb21-6cae1f341afb)
-![Ninth Doctor fin](https://github.com/user-attachments/assets/6375c2e9-86b2-4e46-9330-53a66496d868)
