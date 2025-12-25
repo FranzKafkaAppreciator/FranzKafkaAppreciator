@@ -3,7 +3,7 @@
   # HAPPY CHRISTMAS / HOLIDAYS !!
   <i> **Hi I'm Kuna!!** </i>
 
-  <i> *I contantly play PT and am almost always at spawn. People are always welcomed to W2I or sign my stuff <33* </i>
+  <i> *I contantly play PT and am almost always at spawn. People are always welcome to W2I or sign my stuff <33* </i>
   
   [![Decorate My Tree 🎄](https://img.shields.io/badge/Decorate_My_Tree-🎄-brightgreen)](https://colormytree.me/2025/01KBK8PCXKKQAD1GJEGKW7FXJR)
   <br><br>
