@@ -55,6 +55,15 @@
   <img width="99" height="56" alt="name" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e6eab934-b759-4bbc-8275-2a2d32641804/d1tduty-38887a9b-b36c-4e8c-9da4-0329b2f3c057.jpg/v1/fill/w_132,h_65,q_75,strp/fourth_doctor_stamp_by_carthoris_d1tduty-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjUiLCJwYXRoIjoiL2YvZTZlYWI5MzQtYjc1OS00YmJjLTgyNzUtMmEyZDMyNjQxODA0L2QxdGR1dHktMzg4ODdhOWItYjM2Yy00ZThjLTlkYTQtMDMyOWIyZjNjMDU3LmpwZyIsIndpZHRoIjoiPD0xMzIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.7YmydTTr07EDv3dB0jqNWix8HMsk-Nqfv5UbYbkK2dg" />
   <img width="99" height="56" alt="name" src="https://external-media.spacehey.net/media/sow8k6xuEuGMQ5levwdsw3XcPdzc4xboDwz8qEzz4cpc=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2b63d0f8-60f5-4783-9dac-abb166708e77/d4mklgg-260693d3-7c5d-4b08-97f9-125ba856e99e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJiNjNkMGY4LTYwZjUtNDc4My05ZGFjLWFiYjE2NjcwOGU3N1wvZDRta2xnZy0yNjA2OTNkMy03YzVkLTRiMDgtOTdmOS0xMjViYTg1NmU5OWUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.d8gr9cRL7j4erdiCe3yjJIEP4ujjwB7ZA0FnhWyCyf8" />
   <img width="99" height="56" alt="name" src="https://external-media.spacehey.net/media/sb3IZbHEQX6_vuryifkRXVXXeCuVVNH64T27vYpS6ZJQ=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/34ce505e-bb08-436c-9116-f92a5f14df3b/d4lckex-7ed749a1-ddc4-450a-b4f1-b86d632961f2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM0Y2U1MDVlLWJiMDgtNDM2Yy05MTE2LWY5MmE1ZjE0ZGYzYlwvZDRsY2tleC03ZWQ3NDlhMS1kZGM0LTQ1MGEtYjRmMS1iODZkNjMyOTYxZjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WLZlwThpUfwAB5wUJU38dP9KU-x7VvKfG-UEJEsQLSA" />
+  <img width="99" height="56" alt="Waltz" src="https://s1.ezgif.com/tmp/ezgif-10bd5f03d5d738b6.gif" />
+  <img width="99" height="56" alt="Waltzie" src="https://s1.ezgif.com/tmp/ezgif-1ea20ae3aa9f1012.gif" />
+  <img width="99" height="56" alt="Come At Me Bro" src="https://s2.ezgif.com/tmp/ezgif-2cfa61aadc93341c.gif" />
+  <img width="99" height="56" alt="Bones" src="https://s4.ezgif.com/tmp/ezgif-4892273529a18758.gif" />
+  <img width="99" height="56" alt="Star Trek" src="https://s4.ezgif.com/tmp/ezgif-436e079ed289d477.gif" />
+  <img width="99" height="56" alt="Columbo my dad <333" src="https://s3.ezgif.com/tmp/ezgif-30bb207d80de33c9.gif" />
+  <img width="99" height="56" alt="Me stimming be like" src="https://s3.ezgif.com/tmp/ezgif-34ebec6259d18783.gif" />
+  <img width="99" height="56" alt="him" src="https://s1.ezgif.com/tmp/ezgif-1f8e4541a6d961df.gif" />
+  <img width="99" height="56" alt="Snoops" src="https://s8.ezgif.com/tmp/ezgif-82138a013b151139.gif" />
   <img width="99" height="56" alt="Smiley Face" src="https://external-media.spacehey.net/media/skufDPLVIkZQNoWioyrGanIOvX6Y1qNeXdISS_69mDTY=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4235bb01-19ca-4cd7-ad9c-edcf784d4919/dbl21af-926375a6-2fd1-4246-a245-de5077642d4e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQyMzViYjAxLTE5Y2EtNGNkNy1hZDljLWVkY2Y3ODRkNDkxOVwvZGJsMjFhZi05MjYzNzVhNi0yZmQxLTQyNDYtYTI0NS1kZTUwNzc2NDJkNGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Uzo_W3BLuVFj_-YYrLIxmCMjVDgUTKIr8vQicVuluME" />
   <img width="99" height="56" alt="that scarf was my whole identity at one point" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6c59a1fc-3112-4982-af93-075ff4ef4eeb/d152mcq-1204de18-04b2-49bb-9e50-38f10f38cc41.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi82YzU5YTFmYy0zMTEyLTQ5ODItYWY5My0wNzVmZjRlZjRlZWIvZDE1Mm1jcS0xMjA0ZGUxOC0wNGIyLTQ5YmItOWU1MC0zOGYxMGYzOGNjNDEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3Gk8EyOLSggiMNERzZwDX0mOhaR8q39eMwG1_MZ6-SY" />
   <img width="99" height="56" alt="Depeche Mode !" src="https://64.media.tumblr.com/6df3ff2ab97bcedc2c31f723760d6b8e/8d8807c6f7bc6874-78/s250x400/1908e113d5d9a4a9832c39d892165ad6afd42fe3.pnj" />
@@ -87,17 +96,19 @@
   <img width="99" height="56" alt="name" src="https://64.media.tumblr.com/716fad2e05412d76feab574740d0cedb/6cb55cc50bc454d9-dc/s250x400/76d73ce2e9a8fb9b55dc67b1ea55ab6c7456f1b6.pnj" />
   <img width="99" height="56" alt="name" src="https://64.media.tumblr.com/9bdcaf888dd7564211d7b061443a79fc/551bf2d5c6aff523-88/s250x400/5906de4c73f22c165a11984b59bc194888ef676e.pnj" />
   <img width="99" height="56" alt="name" src="https://external-media.spacehey.net/media/s2rDc7o7d_SkG_PE4ESI0ZLScSTrTkAbxltxkcy0OEAI=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/41fd6f33-1b2c-42c1-be65-e8c7ff66a2ff/dg1486d-d40b5590-f99c-454a-960c-45dae0ebbc62.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQxZmQ2ZjMzLTFiMmMtNDJjMS1iZTY1LWU4YzdmZjY2YTJmZlwvZGcxNDg2ZC1kNDBiNTU5MC1mOTljLTQ1NGEtOTYwYy00NWRhZTBlYmJjNjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tyDT45tMP6MFtXuxyVJk8G2Uoqq3YwcXkBTpbKT752I" />
-  <img width="99" height="56" alt="name" src="https://s1.ezgif.com/tmp/ezgif-182d45c442d86d8b.gif" />
-  <img width="99" height="56" alt="name" src="https://64.media.tumblr.com/290c8722993a3e00d7fee413daa71853/f8e5f1b8986d5e22-9c/s100x200/c670b59a489625e413fe199c0cb856287d02e48d.gifv" />
-  <img width="99" height="56" alt="I know what you are" src="https://s1.ezgif.com/tmp/ezgif-1162a44006f8f612.gif" />
+  <img width="99" height="56" alt="von Krieger <3" src="https://s1.ezgif.com/tmp/ezgif-17fcac2e0a292e3c.gif" />
+  <img width="99" height="56" alt="House" src="https://64.media.tumblr.com/290c8722993a3e00d7fee413daa71853/f8e5f1b8986d5e22-9c/s100x200/c670b59a489625e413fe199c0cb856287d02e48d.gifv" />
+  <img width="99" height="56" alt="I know what you are" src="https://s1.ezgif.com/tmp/ezgif-18e67fd0a0d790bc.gif" />
   <img width="99" height="56" alt="AQOTWF" src="https://s2.ezgif.com/tmp/ezgif-298c80e716899fc4.gif" />
-  <img width="99" height="56" alt="Waltz" src="https://s1.ezgif.com/tmp/ezgif-10bd5f03d5d738b6.gif" />
-  <img width="99" height="56" alt="Waltzie" src="https://s1.ezgif.com/tmp/ezgif-1ea20ae3aa9f1012.gif" />
-  <img width="99" height="56" alt="Come At Me Bro" src="https://s2.ezgif.com/tmp/ezgif-2cfa61aadc93341c.gif" />
-  <img width="99" height="56" alt="Bones" src="https://s4.ezgif.com/tmp/ezgif-4892273529a18758.gif" />
-  <img width="99" height="56" alt="Star Trek" src="https://s4.ezgif.com/tmp/ezgif-436e079ed289d477.gif" />
-  <img width="99" height="56" alt="Columbo my dad <333" src="https://s3.ezgif.com/tmp/ezgif-30bb207d80de33c9.gif" />
-  <img width="99" height="56" alt="Me stimming be like" src="https://s3.ezgif.com/tmp/ezgif-34ebec6259d18783.gif" />
+  <img width="99" height="56" alt="Jojo Rabbit" src="https://s5.ezgif.com/tmp/ezgif-565b0b670d6c2261.gif" />
+  <img width="99" height="56" alt="Yugoslavia" src="https://s5.ezgif.com/tmp/ezgif-55bbf5646655613c.gif" />
+  <img width="99" height="56" alt="RDR2 NOT R2D2" src="https://s3.ezgif.com/tmp/ezgif-304da129544975dd.gif" />
+  <img width="99" height="56" alt="Kafka <33" src="https://s3.ezgif.com/tmp/ezgif-3ea2d497f48b18d3.gif" />
+  <img width="99" height="56" alt="what were the animators of this on" src="https://s5.ezgif.com/tmp/ezgif-53378a6bb3220b78.gif" />
+  <img width="99" height="56" alt="V" src="https://s3.ezgif.com/tmp/ezgif-3abd3988564b1e14.gif" />
+  <img width="99" height="56" alt="silly Captain" src="https://s3.ezgif.com/tmp/ezgif-3d8a2eb01f01a6ab.gif" />
+  <img width="99" height="56" alt="Crowley flabbergasted" src="https://s3.ezgif.com/tmp/ezgif-386302343aa63f4c.gif" />
+  <img width="99" height="56" alt="All Saints Street" src="https://s4.ezgif.com/tmp/ezgif-49adb7c507102c17.gif" />
   
 </div>
 
