@@ -16,7 +16,7 @@
   
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <div align="center">
-    <i> dni: USUK & Spamano / incest shippers, people who like/support actual Nazis or have skins of real ones  - <b>everyone else is genuinely welcome !! :D</b>
+    <i> dni: USUK & Spamano / incest shippers, people who like/support actual Nazis or have skins of real ones, actual Trumpies  - <b>everyone else is genuinely welcome !! :D</b>
   </div>
 </div>
 <br><br>
