@@ -116,6 +116,15 @@
   <img width="99" height="56" alt="silly Captain" src="https://github.com/user-attachments/assets/97e0bd45-2228-4451-aacc-91717c977657" />
   <img width="99" height="56" alt="Crowley flabbergasted" src="https://github.com/user-attachments/assets/f00bb70b-b315-4ede-8ef2-226bb02498f1" />
   <img width="99" height="56" alt="All Saints Street" src="https://github.com/user-attachments/assets/f630370b-6489-4234-972c-d0be6fd88ee8" />
+  <img width="99" height="56" alt="Yes, you did..." src="https://github.com/user-attachments/assets/8b083823-eda4-4cc8-8eca-b131e98ea5ad" />
+  <img width="99" height="56" alt="Night at the Museum" src="https://github.com/user-attachments/assets/442b1e72-6a45-4314-85c9-b886c693b3d4" />
+  <img width="99" height="56" alt="Vamos a la Playa oh oh oh oh oh" src="https://github.com/user-attachments/assets/c0c61595-a7b0-4874-981e-9b1e803b223d" />
+  <img width="99" height="56" alt="Tarantino" src="https://github.com/user-attachments/assets/37134aac-027c-42b1-b7d3-a1cd7064e9e0" />
+  <img width="99" height="56" alt="TF2" src="https://github.com/user-attachments/assets/34476e17-41e4-4ed0-b409-5358a347b0df" />
+  <img width="99" height="56" alt="ERB" src="https://github.com/user-attachments/assets/4192f46d-1526-476c-b529-ac87ebb1af41" />
+  <img width="99" height="56" alt="roly polies / pillbugs !!" src="https://img1.picmix.com/output/stamp/tiny/4/0/2/1/2401204_dbb92.png" />
+  <img width="99" height="56" alt="yaoi" src="https://64.media.tumblr.com/5a954d6e447bfa830b870125e3fd0ed9/a3298d233faebb7a-08/s100x200/037b623580a9eb8a1842d412090a127d5326f7c2.gifv" />
+  <img width="99" height="56" alt="SANTAAAA Elf" src="https://github.com/user-attachments/assets/62137181-34af-4418-8e20-6027868d1785" />
   
 </div>
 
