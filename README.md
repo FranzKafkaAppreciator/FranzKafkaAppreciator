@@ -19,8 +19,12 @@
   </div>
 </div>
 <br><br>
-<b><i>Stamps <33</i></b>
+<div align="center">
+  <b><i>Stamps <33</i></b>
+</div>
+    
 <div style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 10px; align-items: flex-end;">
+  <div align="center">
   <img width="99" height="56" alt="Neko Atsume!!" src="https://github.com/user-attachments/assets/d96b2afb-d526-4507-a3c7-6d90dcebb6d0" />
   <img width="99" height="56" alt="Horror movies peak" src="https://github.com/user-attachments/assets/48f9b2fc-2f43-4aab-b42c-3dffffb82ab0" />
   <img width="99" height="56" alt="Jiji the Cat" src="https://github.com/user-attachments/assets/30443138-e7c7-459b-acf7-c77fded68c08" />
@@ -94,10 +98,10 @@
   <img width="99" height="56" alt="name" src="https://64.media.tumblr.com/e6baf374bca31eb2599e2866907b32a4/cc7ebeb9df3fedaa-b8/s100x200/b9f8a670277815f447e0a6231d94111aad555db3.pnj" />
   <img width="99" height="56" alt="name" src="https://64.media.tumblr.com/4816bac91bcee47922712589fd727486/cc7ebeb9df3fedaa-1c/s100x200/0f19c8353fafba7cc45b416c42056a8bd61e0c2a.gifv" />
   <img width="99" height="56" alt="name" src="https://64.media.tumblr.com/ab183de190c6c17bdf8b102b0f572241/cc7ebeb9df3fedaa-57/s250x400/b496dd3a7c4953ef5120e248f2ddc6c82028ad90.gifv" />
-  <img width="99" height="56" alt="name" src="https://64.media.tumblr.com/0b5c6dc0ad41122d1868b027bbb1e207/d9a59b71a0818c17-29/s100x200/40b4236f799ae86ae05b780da324aa98770be2e6.gifv" />
+  <img width="99" height="56" alt="Gravity Falls" src="https://s7.ezgif.com/tmp/ezgif-776d5a31ae663ac8.gif" />
   <img width="99" height="56" alt="name" src="https://64.media.tumblr.com/716fad2e05412d76feab574740d0cedb/6cb55cc50bc454d9-dc/s250x400/76d73ce2e9a8fb9b55dc67b1ea55ab6c7456f1b6.pnj" />
-  <img width="99" height="56" alt="name" src="https://64.media.tumblr.com/9bdcaf888dd7564211d7b061443a79fc/551bf2d5c6aff523-88/s250x400/5906de4c73f22c165a11984b59bc194888ef676e.pnj" />
-  <img width="99" height="56" alt="name" src="https://external-media.spacehey.net/media/s2rDc7o7d_SkG_PE4ESI0ZLScSTrTkAbxltxkcy0OEAI=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/41fd6f33-1b2c-42c1-be65-e8c7ff66a2ff/dg1486d-d40b5590-f99c-454a-960c-45dae0ebbc62.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQxZmQ2ZjMzLTFiMmMtNDJjMS1iZTY1LWU4YzdmZjY2YTJmZlwvZGcxNDg2ZC1kNDBiNTU5MC1mOTljLTQ1NGEtOTYwYy00NWRhZTBlYmJjNjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tyDT45tMP6MFtXuxyVJk8G2Uoqq3YwcXkBTpbKT752I" />
+  <img width="99" height="56" alt="Postal" src="https://64.media.tumblr.com/9bdcaf888dd7564211d7b061443a79fc/551bf2d5c6aff523-88/s250x400/5906de4c73f22c165a11984b59bc194888ef676e.pnj" />
+  <img width="99" height="56" alt="Hannibal" src="https://external-media.spacehey.net/media/s2rDc7o7d_SkG_PE4ESI0ZLScSTrTkAbxltxkcy0OEAI=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/41fd6f33-1b2c-42c1-be65-e8c7ff66a2ff/dg1486d-d40b5590-f99c-454a-960c-45dae0ebbc62.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQxZmQ2ZjMzLTFiMmMtNDJjMS1iZTY1LWU4YzdmZjY2YTJmZlwvZGcxNDg2ZC1kNDBiNTU5MC1mOTljLTQ1NGEtOTYwYy00NWRhZTBlYmJjNjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tyDT45tMP6MFtXuxyVJk8G2Uoqq3YwcXkBTpbKT752I" />
   <img width="99" height="56" alt="von Krieger <3" src="https://s1.ezgif.com/tmp/ezgif-17fcac2e0a292e3c.gif" />
   <img width="99" height="56" alt="House" src="https://64.media.tumblr.com/290c8722993a3e00d7fee413daa71853/f8e5f1b8986d5e22-9c/s100x200/c670b59a489625e413fe199c0cb856287d02e48d.gifv" />
   <img width="99" height="56" alt="I know what you are" src="https://s1.ezgif.com/tmp/ezgif-18e67fd0a0d790bc.gif" />
@@ -114,7 +118,7 @@
   
 </div>
 
-<div>
+<div align="center">
   <img width="110" alt="HELP ME WHAT" src="https://64.media.tumblr.com/da8a830e417e1861a9899ec701f6267b/6af461a3f6e93104-44/s250x400/5754183e44033d8c8e9b61f192a69fba16eca7f3.gifv" />
   <img width="110" alt="name" src="https://64.media.tumblr.com/74426d69694e0c00d125fd04be6f56da/a5b6896041f0ab1d-3f/s250x400/d8df98ae1d23a2868fd10b9e411b734677db7263.gifv" />
   <img width="110" alt="name" src="https://64.media.tumblr.com/c92d3424fd2d087c53b1f0645d61b83e/f9a3fffead4ca012-43/s250x400/5201c15e52c1bd0441f62d16acfd07a747f35dfe.webp" />
