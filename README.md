@@ -2,6 +2,7 @@
 
   # HAPPY CHRISTMAS / HOLIDAYS !!
   <i> **Hi I'm Kuna!!** </i>
+
   <i> *I contantly play PT and am almost always at spawn. People are always welcomed to W2I or sign my stuff <33* </i>
   
   [![Decorate My Tree 🎄](https://img.shields.io/badge/Decorate_My_Tree-🎄-brightgreen)](https://colormytree.me/2025/01KBK8PCXKKQAD1GJEGKW7FXJR)
@@ -112,9 +113,9 @@
   <img width="99" height="56" alt="Kafka <33" src="https://s3.ezgif.com/tmp/ezgif-3ea2d497f48b18d3.gif" />
   <img width="99" height="56" alt="what were the animators of this on" src="https://s5.ezgif.com/tmp/ezgif-53378a6bb3220b78.gif" />
   <img width="99" height="56" alt="V" src="https://s3.ezgif.com/tmp/ezgif-3abd3988564b1e14.gif" />
-  <img width="99" height="56" alt="silly Captain" src="https://s3.ezgif.com/tmp/ezgif-3d8a2eb01f01a6ab.gif" />
-  <img width="99" height="56" alt="Crowley flabbergasted" src="https://s3.ezgif.com/tmp/ezgif-386302343aa63f4c.gif" />
-  <img width="99" height="56" alt="All Saints Street" src="https://s4.ezgif.com/tmp/ezgif-49adb7c507102c17.gif" />
+  <img width="99" height="56" alt="silly Captain" src="https://github.com/user-attachments/assets/97e0bd45-2228-4451-aacc-91717c977657" />
+  <img width="99" height="56" alt="Crowley flabbergasted" src="https://github.com/user-attachments/assets/f00bb70b-b315-4ede-8ef2-226bb02498f1" />
+  <img width="99" height="56" alt="All Saints Street" src="https://github.com/user-attachments/assets/f630370b-6489-4234-972c-d0be6fd88ee8" />
   
 </div>
 
