@@ -11,8 +11,10 @@
     <img src="https://github.com/user-attachments/assets/5493885b-20a5-4fd6-835f-5ff50694b852" width="300" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
     <img src="https://github.com/user-attachments/assets/a8926426-b8a0-43d6-9299-d0ab5bbc6abd" width="412" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
   </div>
+    <br></div>
+  
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div>
+  <div align="center">
     <i> dni: USUK & Spamano / incest shippers, people who like/support actual Nazis or have skins of real ones  - <b>everyone else is genuinely welcome !! :D</b>
   </div>
 </div>
