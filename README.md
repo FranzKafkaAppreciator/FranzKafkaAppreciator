@@ -94,7 +94,7 @@
   <img width="99" height="56" alt="yummers" src="https://64.media.tumblr.com/a37adbbad830d4d628632ec92129d62f/6af461a3f6e93104-51/s100x200/c339166334fb476898f16a2d4b56bf7f3d884665.gifv" />
   <img width="99" height="56" alt="name" src="https://64.media.tumblr.com/603280bb25174fe4ab92aa165ef7d0a8/b18aff3ce9323114-87/s100x200/93101f271a22ae53d4702eef296b5f9874d7048a.gifv" />
   <img width="99" height="56" alt="name" src="https://64.media.tumblr.com/6d8ed95e480325f6b8de3faf03d34a4b/f6a197f4f957fd7a-aa/s100x200/b0620444c0740cb97e6cf6b8e740c6e13692e42e.jpg" />
-  <img width="99" height="56" alt="name" src="https://s7.ezgif.com/tmp/ezgif-7320e716e14b5b48.gif" />
+  <img width="99" height="56" alt="Super Science Friends" src="https://github.com/user-attachments/assets/16949377-64d1-4cc8-a893-1977539bc7f0" />
   <img width="99" height="56" alt="name" src="https://64.media.tumblr.com/c0bc053497b6d2cdacf72607710c1e0c/0a314c1722fc4072-59/s100x200/aa6877408a07b3006e9993c626430f1fbea2343e.gifv" />
   <img width="99" height="56" alt="name" src="https://64.media.tumblr.com/e6baf374bca31eb2599e2866907b32a4/cc7ebeb9df3fedaa-b8/s100x200/b9f8a670277815f447e0a6231d94111aad555db3.pnj" />
   <img width="99" height="56" alt="name" src="https://64.media.tumblr.com/4816bac91bcee47922712589fd727486/cc7ebeb9df3fedaa-1c/s100x200/0f19c8353fafba7cc45b416c42056a8bd61e0c2a.gifv" />
@@ -103,16 +103,16 @@
   <img width="99" height="56" alt="name" src="https://64.media.tumblr.com/716fad2e05412d76feab574740d0cedb/6cb55cc50bc454d9-dc/s250x400/76d73ce2e9a8fb9b55dc67b1ea55ab6c7456f1b6.pnj" />
   <img width="99" height="56" alt="Postal" src="https://64.media.tumblr.com/9bdcaf888dd7564211d7b061443a79fc/551bf2d5c6aff523-88/s250x400/5906de4c73f22c165a11984b59bc194888ef676e.pnj" />
   <img width="99" height="56" alt="Hannibal" src="https://external-media.spacehey.net/media/s2rDc7o7d_SkG_PE4ESI0ZLScSTrTkAbxltxkcy0OEAI=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/41fd6f33-1b2c-42c1-be65-e8c7ff66a2ff/dg1486d-d40b5590-f99c-454a-960c-45dae0ebbc62.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQxZmQ2ZjMzLTFiMmMtNDJjMS1iZTY1LWU4YzdmZjY2YTJmZlwvZGcxNDg2ZC1kNDBiNTU5MC1mOTljLTQ1NGEtOTYwYy00NWRhZTBlYmJjNjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tyDT45tMP6MFtXuxyVJk8G2Uoqq3YwcXkBTpbKT752I" />
-  <img width="99" height="56" alt="von Krieger <3" src="https://s1.ezgif.com/tmp/ezgif-17fcac2e0a292e3c.gif" />
+  <img width="99" height="56" alt="von Krieger <3" src="https://github.com/user-attachments/assets/9580c7af-696c-427e-87e1-5e9cdabd29d7" />
   <img width="99" height="56" alt="House" src="https://64.media.tumblr.com/290c8722993a3e00d7fee413daa71853/f8e5f1b8986d5e22-9c/s100x200/c670b59a489625e413fe199c0cb856287d02e48d.gifv" />
   <img width="99" height="56" alt="I know what you are" src="https://github.com/user-attachments/assets/31eece00-9d2d-472c-a7a2-4a9b0e610382" />
-  <img width="99" height="56" alt="AQOTWF" src="https://s2.ezgif.com/tmp/ezgif-298c80e716899fc4.gif" />
-  <img width="99" height="56" alt="Jojo Rabbit" src="https://s5.ezgif.com/tmp/ezgif-565b0b670d6c2261.gif" />
-  <img width="99" height="56" alt="Yugoslavia" src="https://s5.ezgif.com/tmp/ezgif-55bbf5646655613c.gif" />
-  <img width="99" height="56" alt="RDR2 NOT R2D2" src="https://s3.ezgif.com/tmp/ezgif-304da129544975dd.gif" />
-  <img width="99" height="56" alt="Kafka <33" src="https://s3.ezgif.com/tmp/ezgif-3ea2d497f48b18d3.gif" />
-  <img width="99" height="56" alt="what were the animators of this on" src="https://s5.ezgif.com/tmp/ezgif-53378a6bb3220b78.gif" />
-  <img width="99" height="56" alt="V" src="https://s3.ezgif.com/tmp/ezgif-3abd3988564b1e14.gif" />
+  <img width="99" height="56" alt="AQOTWF" src="https://github.com/user-attachments/assets/fdb4ac71-c110-4339-92e5-d49cdfd86e1e" />
+  <img width="99" height="56" alt="Jojo Rabbit" src="https://github.com/user-attachments/assets/5e880a5d-5136-40b7-b2bd-3dfb7c5337b0" />
+  <img width="99" height="56" alt="Yugoslavia" src="https://github.com/user-attachments/assets/b2dad937-ad68-4a03-9fcf-0a1acf92da1a" />
+  <img width="99" height="56" alt="RDR2 NOT R2D2" src="https://github.com/user-attachments/assets/cdbc3fbe-250c-4cc0-b9ee-369eb092300a" />
+  <img width="99" height="56" alt="Kafka <33" src="https://github.com/user-attachments/assets/e6d155c4-2bc6-485c-af12-79b901b31e85" />
+  <img width="99" height="56" alt="what were the animators of this on" src="https://github.com/user-attachments/assets/14c7f8a3-4632-4283-aa76-af8c035e2ccf" />
+  <img width="99" height="56" alt="V" src="https://github.com/user-attachments/assets/54faaf50-0976-4673-bc32-5931a2d7b597" />
   <img width="99" height="56" alt="silly Captain" src="https://github.com/user-attachments/assets/97e0bd45-2228-4451-aacc-91717c977657" />
   <img width="99" height="56" alt="Crowley flabbergasted" src="https://github.com/user-attachments/assets/f00bb70b-b315-4ede-8ef2-226bb02498f1" />
   <img width="99" height="56" alt="All Saints Street" src="https://github.com/user-attachments/assets/f630370b-6489-4234-972c-d0be6fd88ee8" />
